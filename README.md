@@ -167,7 +167,6 @@ npm start
 
 <img src="https://raw.githubusercontent.com/pukarumi23/pukarumi23/output/github-contribution-grid-snake.svg" width="100%"/>
 
-<sub>⚙️ Para activar el snake animado, agrega el workflow oficial de <a href="https://github.com/Platane/snk">Platane/snk</a> en tu repo de perfil</sub>
 
 </div>
 

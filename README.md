@@ -13,8 +13,8 @@
 ![](https://img.shields.io/badge/VERSI%C3%93N-2.0.0-%23ff007f?style=flat-square&labelColor=0d0d0d)
 ![](https://img.shields.io/badge/PLATAFORMA-WHATSAPP-%2300e5ff?style=flat-square&labelColor=0d0d0d)
 ![](https://img.shields.io/badge/AUTOR-CHASKI-%23bf00ff?style=flat-square&labelColor=0d0d0d&logo=github&logoColor=white)
-[![GitHub Stars](https://img.shields.io/github/stars/pukarumi23/MARIN-KITAGWA_BOT?style=flat-square&label=STARS&labelColor=0d0d0d&color=00a2ff&logo=github&logoColor=white)](https://github.com/pukarumi23/MARIN-KITAGWA_BOT/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/pukarumi23/MARIN-KITAGWA_BOT?style=flat-square&labelColor=0d0d0d&color=00c3ff&logo=github&logoColor=white)](https://github.com/pukarumi23/MARIN-KITAGWA_BOT/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/pukarumi23/MIKU_NAKANO_4?style=flat-square&label=STARS&labelColor=0d0d0d&color=00a2ff&logo=github&logoColor=white)](https://github.com/pukarumi23/MIKU_NAKANO_4/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/pukarumi23/MIKU_NAKANO_4?style=flat-square&labelColor=0d0d0d&color=00c3ff&logo=github&logoColor=white)](https://github.com/pukarumi23/MIKU_NAKANO_4/network/members)
 </div>
 
 ---
@@ -96,13 +96,13 @@ pkg install git nodejs
 **3 —** Clona el repositorio
 
 ```sh
-git clone https://github.com/pukarumi23/MARIN-KITAGWA_BOT.git
+git clone https://github.com/pukarumi23/MIKU_NAKANO_4.git
 ```
 
 **4 —** Entra al directorio
 
 ```sh
-cd MARIN-KITAGWA_BOT
+cd MIKU_NAKANO_4
 ```
 
 **5 —** Instala las dependencias
@@ -161,7 +161,7 @@ npm start
 
 *Creador & Mantenedor*
 
-[![GITHUB](https://img.shields.io/badge/龍༒CHASKI༒龍-bf00ff?style=for-the-badge&labelColor=000000&logo=github&logoColor=white)](https://github.com/pukarumi23/MARIN-KITAGWA_BOT)
+[![GITHUB](https://img.shields.io/badge/龍༒CHASKI༒龍-bf00ff?style=for-the-badge&labelColor=000000&logo=github&logoColor=white)](https://github.com/pukarumi23/MIKU_NAKANO_4)
 
 </div>
 

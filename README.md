@@ -1,59 +1,69 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/ac/ec/97/acec972bf08eacaa56c5e18afcaf68ed.jpg" width="300"/>
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,50:bf00ff,100:00e5ff&height=200&section=header&text=Marin%20Kitagawa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+
+<img src="https://i.pinimg.com/1200x/ac/ec/97/acec972bf08eacaa56c5e18afcaf68ed.jpg" width="280" style="border-radius:12px"/>
+
+<br/><br/>
+
+![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF007F&center=true&vCenter=true&width=500&lines=Sistema+de+automatizaci%C3%B3n+WhatsApp;Impulsado+por+IA+%F0%9F%92%AB;Desarrollo+activo+24%2F7+%E2%9A%A1)
 
 <br/>
 
-# ༺🌷 Marin Kitagawa 🌷༻
+![](https://img.shields.io/badge/VERSI%C3%93N-2.0.0-%23ff007f?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/PLATAFORMA-WHATSAPP-%2300e5ff?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/AUTOR-CHASKI-%23bf00ff?style=for-the-badge&labelColor=0d0d0d&logo=github&logoColor=white)
 
-> *Sistema de automatización para WhatsApp — impulsado por IA*
+[![GitHub Stars](https://img.shields.io/github/stars/pukarumi23/MARIN-KITAGWA_BOT?style=for-the-badge&label=%E2%98%85%20STARS&labelColor=0d0d0d&color=00a2ff&logo=github&logoColor=white)](https://github.com/pukarumi23/MARIN-KITAGWA_BOT/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/pukarumi23/MARIN-KITAGWA_BOT?style=for-the-badge&label=%F0%9F%8D%B4%20FORKS&labelColor=0d0d0d&color=00c3ff&logo=github&logoColor=white)](https://github.com/pukarumi23/MARIN-KITAGWA_BOT/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/pukarumi23/MARIN-KITAGWA_BOT?style=for-the-badge&label=%C3%9ALTIMO%20COMMIT&labelColor=0d0d0d&color=ff8fd6)](https://github.com/pukarumi23/MARIN-KITAGWA_BOT/commits)
+![Visitas](https://komarev.com/ghpvc/?username=pukarumi23&repo=MARIN-KITAGWA_BOT&color=ff007f&style=for-the-badge&label=%F0%9F%91%81%EF%B8%8F%20VISITAS)
 
-<br/>
-
-![](https://img.shields.io/badge/VERSI%C3%93N-2.0.0-%23ff007f?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/PLATAFORMA-WHATSAPP-%2300e5ff?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/AUTOR-CHASKI-%23bf00ff?style=flat-square&labelColor=0d0d0d&logo=github&logoColor=white)
-[![GitHub Stars](https://img.shields.io/github/stars/pukarumi23/MIKU_NAKANO_4?style=flat-square&label=STARS&labelColor=0d0d0d&color=00a2ff&logo=github&logoColor=white)](https://github.com/pukarumi23/MIKU_NAKANO_4/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/pukarumi23/MIKU_NAKANO_4?style=flat-square&labelColor=0d0d0d&color=00c3ff&logo=github&logoColor=white)](https://github.com/pukarumi23/MIKU_NAKANO_4/network/members)
 </div>
 
 ---
 
 <div align="center">
 
-### 〔 ACERCA DEL SISTEMA 〕
+### 〔 🌸 ACERCA DEL SISTEMA 🌸 〕
 
 </div>
 
-**Marin Kitagawa** es una herramienta de automatización rica en funciones que trae el encanto de Kitagawa una de las quintillizas a tu WhatsApp. Construido sobre el núcleo de Baileys, opera en tiempo real con módulos de IA, protección de grupos y entretenimiento.
+**Marin Kitagawa** es una herramienta de automatización rica en funciones que trae el encanto de Kitagawa, una de las quintillizas, a tu WhatsApp. Construido sobre el núcleo de Baileys, opera en tiempo real con módulos de IA, protección de grupos y entretenimiento.
 
-Desarrollo activo — nuevas funciones desplegadas continuamente.
+<div align="center">
+
+✨ *Desarrollo activo — nuevas funciones desplegadas continuamente* ✨
+
+</div>
 
 ---
 
 <div align="center">
 
-### 〔 MÓDULOS ACTIVOS 〕
+### 〔 💫 MÓDULOS ACTIVOS 💫 〕
 
 </div>
 
-```yaml
-✦ Interacción Voz & Texto      →  Respuestas multimedia en tiempo real
-✦ Gestión de Grupos            →  Admin, permisos y configuración
-✦ Protección Anti-Spam         →  Anti-links, anti-flood, anti-delete
-✦ Bienvenidas Personalizadas   →  Mensajes dinámicos con imagen
-✦ IA Conversacional            →  SimSimi + módulo propio
-✦ Motor de Stickers            →  Desde imágenes / videos / GIFs / URLs
-✦ RPG & Entretenimiento        →  Juegos, minijuegos, ranking
-✦ Descargas de YouTube         →  Música y video en alta calidad
-✦ Módulos Secretos             →  Próximamente...
-```
+| Módulo | Descripción | Estado |
+|:---:|:---|:---:|
+| 🎙️ Voz & Texto | Respuestas multimedia en tiempo real | ✅ |
+| 🛡️ Gestión de Grupos | Admin, permisos y configuración | ✅ |
+| 🚫 Anti-Spam | Anti-links, anti-flood, anti-delete | ✅ |
+| 🎀 Bienvenidas | Mensajes dinámicos con imagen | ✅ |
+| 🤖 IA Conversacional | SimSimi + módulo propio | ✅ |
+| 🎨 Motor de Stickers | Desde imágenes / videos / GIFs / URLs | ✅ |
+| 🎮 RPG & Entretenimiento | Juegos, minijuegos, ranking | ✅ |
+| 📥 Descargas YouTube | Música y video en alta calidad | ✅ |
+| 🔒 Módulos Secretos | Próximamente | ⏳ |
 
 ---
 
 <div align="center">
 
-### 〔 HOSTING RECOMENDADO 〕
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=3&section=header)
+
+### 〔 🌐 HOSTING RECOMENDADO 〕
 
 <br/>
 
@@ -61,7 +71,7 @@ Desarrollo activo — nuevas funciones desplegadas continuamente.
 
 <br/><br/>
 
-**¿Quieres tu bot corriendo 24/7 sin interrupciones?**
+**¿Quieres tu bot corriendo 24/7 sin interrupciones? 🚀**
 
 Planes optimizados para bots de WhatsApp · Soporte activo · Uptime garantizado
 
@@ -77,7 +87,7 @@ Planes optimizados para bots de WhatsApp · Soporte activo · Uptime garantizado
 
 <div align="center">
 
-### 〔 INSTALACIÓN EN TERMUX 〕
+### 〔 📲 INSTALACIÓN EN TERMUX 〕
 
 </div>
 
@@ -96,13 +106,13 @@ pkg install git nodejs
 **3 —** Clona el repositorio
 
 ```sh
-git clone https://github.com/pukarumi23/MIKU_NAKANO_4.git
+git clone https://github.com/pukarumi23/MARIN-KITAGWA_BOT.git
 ```
 
 **4 —** Entra al directorio
 
 ```sh
-cd MIKU_NAKANO_4
+cd MARIN-KITAGWA_BOT
 ```
 
 **5 —** Instala las dependencias
@@ -117,16 +127,16 @@ npm install
 npm start
 ```
 
-> ⚡ **Termux recomendado →** [Descargar APK](https://files.catbox.moe/b6z9ml.apk)  
+> ⚡ **Termux recomendado →** [Descargar APK](https://files.catbox.moe/b6z9ml.apk)
 > ⚡ Al iniciar, se generará un código de vinculación para WhatsApp Web.
 
 ---
 
 <div align="center">
 
-### 〔 SOPORTE & COMUNIDAD 〕
+### 〔 💬 SOPORTE & COMUNIDAD 〕
 
-¿Tienes dudas o encontraste un problema? Contáctanos directamente.
+¿Tienes dudas o encontraste un problema? Contáctanos directamente 👇
 
 <br/>
 
@@ -139,7 +149,7 @@ npm start
 
 <div align="center">
 
-### 〔 ESTADÍSTICAS 〕
+### 〔 📊 ESTADÍSTICAS 〕
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=pukarumi23&show_icons=true&count_private=true&theme=radical&bg_color=0d0d0d&border_color=ff007f&title_color=00e5ff&icon_color=ff007f&text_color=ffffff)](https://github.com/pukarumi23)
 
@@ -153,18 +163,34 @@ npm start
 
 <div align="center">
 
-### 〔 DESARROLLADOR 〕
+### 〔 🐍 CONTRIBUCIONES 〕
 
-<img src="https://github.com/pukarumi23.png" width="110" style="border-radius:50%"/>
+<img src="https://raw.githubusercontent.com/pukarumi23/pukarumi23/output/github-contribution-grid-snake.svg" width="100%"/>
 
-**龍༒ ＣＨＡＳＫＩ ༒龍**
-
-*Creador & Mantenedor*
-
-[![GITHUB](https://img.shields.io/badge/龍༒CHASKI༒龍-bf00ff?style=for-the-badge&labelColor=000000&logo=github&logoColor=white)](https://github.com/pukarumi23/MIKU_NAKANO_4)
+<sub>⚙️ Para activar el snake animado, agrega el workflow oficial de <a href="https://github.com/Platane/snk">Platane/snk</a> en tu repo de perfil</sub>
 
 </div>
 
 ---
 
 <div align="center">
+
+### 〔 👑 DESARROLLADOR 〕
+
+<img src="https://github.com/pukarumi23.png" width="110" style="border-radius:50%;border:3px solid #ff007f"/>
+
+**龍༒ ＣＨＡＳＫＩ ༒龍**
+
+*Creador & Mantenedor* 🎐
+
+[![GITHUB](https://img.shields.io/badge/龍༒CHASKI༒龍-bf00ff?style=for-the-badge&labelColor=000000&logo=github&logoColor=white)](https://github.com/pukarumi23/MARIN-KITAGWA_BOT)
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:bf00ff,100:ff007f&height=120&section=footer)
+
+</div>

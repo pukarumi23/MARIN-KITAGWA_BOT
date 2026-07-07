@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/9rd3vr.png" width="300"/>
+<img src="https://i.pinimg.com/1200x/ac/ec/97/acec972bf08eacaa56c5e18afcaf68ed.jpg" width="300"/>
 
 <br/>
 
-# ⚡★ MIKU NAKANO BOT ★⚡
+# ༺🌷 Marin Kitagawa 🌷༻
 
 > *Sistema de automatización para WhatsApp — impulsado por IA*
 
@@ -13,9 +13,8 @@
 ![](https://img.shields.io/badge/VERSI%C3%93N-2.0.0-%23ff007f?style=flat-square&labelColor=0d0d0d)
 ![](https://img.shields.io/badge/PLATAFORMA-WHATSAPP-%2300e5ff?style=flat-square&labelColor=0d0d0d)
 ![](https://img.shields.io/badge/AUTOR-CHASKI-%23bf00ff?style=flat-square&labelColor=0d0d0d&logo=github&logoColor=white)
-[![GitHub Stars](https://img.shields.io/github/stars/pukarumi23/MIKU_NAKANO_4?style=flat-square&label=STARS&labelColor=0d0d0d&color=00a2ff&logo=github&logoColor=white)](https://github.com/pukarumi23/MIKU_NAKANO_4/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/pukarumi23/MIKU_NAKANO_4?style=flat-square&labelColor=0d0d0d&color=00c3ff&logo=github&logoColor=white)](https://github.com/pukarumi23/MIKU_NAKANO_4/network/members)
-
+[![GitHub Stars](https://img.shields.io/github/stars/pukarumi23/MARIN-KITAGWA_BOT?style=flat-square&label=STARS&labelColor=0d0d0d&color=00a2ff&logo=github&logoColor=white)](https://github.com/pukarumi23/MARIN-KITAGWA_BOT/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/pukarumi23/MARIN-KITAGWA_BOT?style=flat-square&labelColor=0d0d0d&color=00c3ff&logo=github&logoColor=white)](https://github.com/pukarumi23/MARIN-KITAGWA_BOT/network/members)
 </div>
 
 ---
@@ -26,7 +25,7 @@
 
 </div>
 
-**Miku Nakano Bot** es una herramienta de automatización rica en funciones que trae el encanto de Miku una de las quintillizas a tu WhatsApp. Construido sobre el núcleo de Baileys, opera en tiempo real con módulos de IA, protección de grupos y entretenimiento.
+**Marin Kitagawa** es una herramienta de automatización rica en funciones que trae el encanto de Kitagawa una de las quintillizas a tu WhatsApp. Construido sobre el núcleo de Baileys, opera en tiempo real con módulos de IA, protección de grupos y entretenimiento.
 
 Desarrollo activo — nuevas funciones desplegadas continuamente.
 
@@ -97,13 +96,13 @@ pkg install git nodejs
 **3 —** Clona el repositorio
 
 ```sh
-git clone https://github.com/pukarumi23/MIKU_NAKANO_4.git
+git clone https://github.com/pukarumi23/MARIN-KITAGWA_BOT.git
 ```
 
 **4 —** Entra al directorio
 
 ```sh
-cd MIKU_NAKANO_4
+cd MARIN-KITAGWA_BOT
 ```
 
 **5 —** Instala las dependencias
@@ -162,7 +161,7 @@ npm start
 
 *Creador & Mantenedor*
 
-[![GITHUB](https://img.shields.io/badge/龍༒CHASKI༒龍-bf00ff?style=for-the-badge&labelColor=000000&logo=github&logoColor=white)](https://github.com/pukarumi23/MIKU_NAKANO_4)
+[![GITHUB](https://img.shields.io/badge/龍༒CHASKI༒龍-bf00ff?style=for-the-badge&labelColor=000000&logo=github&logoColor=white)](https://github.com/pukarumi23/MARIN-KITAGWA_BOT)
 
 </div>
 

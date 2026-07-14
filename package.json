@@ -1,12 +1,15 @@
 {
-  "name": "HatsuneMiku",
-  "version": "2.0",
+  "name": "hatsune-miku",
+  "version": "3.0",
   "description": "WhatsApp Bot Multi Device",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "format": "prettier --write .",
-    "start": "node index.js"
+    "start": "node index.js",
+    "start:gc": "node --expose-gc --optimize-for-size --max-old-space-size=1536 --gc-interval=100 index.js",
+    "start:optimized": "node --expose-gc --optimize-for-size --max-old-space-size=2048 --gc-interval=50 --max-heap-dirty=512 index.js",
+    "start:aggressive": "node --expose-gc --optimize-for-size --max-old-space-size=1536 --gc-interval=50 --max-heap-dirty=256 --expose-gc --trace-gc-verbose index.js"
   },
   "keywords": [
     "whatsapp-bot",
@@ -21,32 +24,26 @@
     "npm": ">=10.9.4"
   },
   "dependencies": {
-    "@babel/parser": "latest",
     "@vitalets/google-translate-api": "^8.0.0",
     "@whiskeysockets/baileys": "npm:baileys-leet",
-    "acrcloud": "^1.4.0",
     "aptoide-scraper": "github:DIEGO-OFC/dv-aptoide-scraper",
     "axios": "^0.24.0",
     "cfonts": "latest",
-    "cors": "^2.8.5",
     "chalk": "^4.1.2",
     "cheerio": "npm:cheerio@1.0.0-rc.12",
-    "express": "^4.19.2",
     "fluent-ffmpeg": "^2.1.2",
     "form-data": "^4.0.0",
     "gradient-string": "^2.0.2",
     "grapheme-splitter": "^1.0.4",
     "human-readable": "^0.2.1",
-    "jimp": "latest",
+    "jimp": "^0.22.6",
     "lodash": "latest",
-    "moment": "^2.29.4",
-    "moment-timezone": "^0.5.37",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.48",
     "node-cache": "latest",
     "node-fetch": "^3.2.10",
-    "node-id3": "^0.2.6",
+    "node-id3": "^0.1.16",
     "node-webpmux": "^3.2.0",
-    "openai": "^4.28.0",
-    "performance-now": "^2.1.0",
     "pino": "^8.8.0",
     "qrcode": "^1.5.4",
     "qrcode-terminal": "^0.12.0",
@@ -54,10 +51,6 @@
     "syntax-error": "^1.4.0",
     "ws": "^8.18.3",
     "yargs": "^18.0.0",
-    "yt-search": "^2.10.4",
-    "undici": "*",
-    "uuid": "^9.0.0",
-    "@distube/ytdl-core": "^4.16.12",
-    "file-type": "^18.5.0"
+    "yt-search": "^2.10.4"
   }
 }
